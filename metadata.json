@@ -1,0 +1,6 @@
+{
+  "name": "PulseForge - Wearable Fitness & Nutrition",
+  "description": "Personalized fitness tracking with wearable device sync, real-time heart rate monitoring, customized workout routines, nutritional insights, community leaderboards, offline storage, and multi-language support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
